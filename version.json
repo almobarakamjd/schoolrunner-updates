@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "build": 1,
+  "version": "1.0.1-test",
+  "build": 2,
   "apk_url": "https://raw.githubusercontent.com/almobarakamjd/schoolrunner-updates/master/app-release.apk",
-  "notes": "أول إصدار"
+  "notes": "اختبار مؤقت لآلية التحديث"
 }
